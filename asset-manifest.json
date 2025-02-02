@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/spotifydev-react/static/css/main.94188f1c.css",
+    "main.js": "/spotifydev-react/static/js/main.13d378e2.js",
+    "static/js/488.be8b694d.chunk.js": "/spotifydev-react/static/js/488.be8b694d.chunk.js",
+    "static/media/1.jpeg": "/spotifydev-react/static/media/1.d977b5b2117f55292df2.jpeg",
+    "static/media/2.png": "/spotifydev-react/static/media/2.e891cfd68a52b5065f92.png",
+    "static/media/6.jpeg": "/spotifydev-react/static/media/6.7ea018d45212121c36d9.jpeg",
+    "static/media/4.jpeg": "/spotifydev-react/static/media/4.6c2195f4685ef68f821c.jpeg",
+    "static/media/logo-spotify.png": "/spotifydev-react/static/media/logo-spotify.f48fb565509bf23854a8.png",
+    "static/media/7.jpeg": "/spotifydev-react/static/media/7.8ce0f445fdc036a779a4.jpeg",
+    "static/media/15.jpeg": "/spotifydev-react/static/media/15.9d1c4f1c68eaaf3d68ae.jpeg",
+    "static/media/8.jpeg": "/spotifydev-react/static/media/8.b7148dfd8a491de2aa3a.jpeg",
+    "static/media/3.jpeg": "/spotifydev-react/static/media/3.960d081ba2cbf1c7ef32.jpeg",
+    "static/media/10.jpeg": "/spotifydev-react/static/media/10.c09722d9c9743ea57167.jpeg",
+    "static/media/12.jpeg": "/spotifydev-react/static/media/12.f1a4af54ad6690e2b021.jpeg",
+    "static/media/9.jpeg": "/spotifydev-react/static/media/9.13e8bc5125c1e5fc5d32.jpeg",
+    "static/media/13.jpeg": "/spotifydev-react/static/media/13.ef7f74ac2439865d4c1b.jpeg",
+    "static/media/11.jpeg": "/spotifydev-react/static/media/11.305273f5d32e3dcac40f.jpeg",
+    "static/media/5.jpeg": "/spotifydev-react/static/media/5.1349d7b6e31a564d70ee.jpeg",
+    "static/media/14.jpeg": "/spotifydev-react/static/media/14.9b257511e3c4014c9a1d.jpeg",
+    "index.html": "/spotifydev-react/index.html",
+    "main.94188f1c.css.map": "/spotifydev-react/static/css/main.94188f1c.css.map",
+    "main.13d378e2.js.map": "/spotifydev-react/static/js/main.13d378e2.js.map",
+    "488.be8b694d.chunk.js.map": "/spotifydev-react/static/js/488.be8b694d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94188f1c.css",
+    "static/js/main.13d378e2.js"
+  ]
+}
